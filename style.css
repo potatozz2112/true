@@ -1,5 +1,6 @@
 body {
   background-image: url(./img/anhnen.jpg);
+  background-size: cover;
 }
 div {
   background-color: rgba(204, 57, 140, 0.351);
@@ -48,4 +49,7 @@ button:hover {
 }
 #p1 {
   margin-top: 30px;
+}
+a {
+  text-decoration: none;
 }
